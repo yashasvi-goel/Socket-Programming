@@ -16,6 +16,6 @@ People involved in this project:
 3. Anivrat Goel
 4. Prajawal Pandey
 5. Prakhar Tiwari
-6. [Sahil Kalamkar]()
+6. [Sahil Kalamkar](https://github.com/Sahilkalamkar)
 7. Sushant Aggarwal
 8. [Yashasvi Goel](https://github.com/yashasvi-goel)
