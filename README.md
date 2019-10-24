@@ -10,11 +10,11 @@ input. However sampling will be done in a fixed interval. This digital data has 
 into Manchester signal and this signal (in terms of amplitude value) will be sent to the receiver
 and this computer will decode the analog signal.
 
-People involved in this project:
+People involved in this project were:
 1. Akansha 
 2. Amartya Dutta
 3. Anivrat Goel
-4. Prajawal Pandey
+4. [Prajawal Kumar Pandey](https://github.com/prajwalkpandey)
 5. Prakhar Tiwari
 6. [Sahil Kalamkar](https://github.com/Sahilkalamkar)
 7. Sushant Aggarwal
